@@ -28,7 +28,7 @@ npm install react-materialize
     <script src="path/to/your/bundle.js"></script>
   </body>
 </html>
-```
+```dssdsd
 
 #### Javascript
 ``` js
